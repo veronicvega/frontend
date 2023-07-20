@@ -27,11 +27,6 @@
 </template>
 <script setup>
 
- const Login => () {
-        /// llamar los datos. 
-        // las llamadas a los endpoints. 
- }
-
 </script>
 <style>
 *{
@@ -86,7 +81,6 @@
   padding: 10px 20px;
   gap: 2vh;
 
-  // Estoy probando github 
 }
 
 </style>
